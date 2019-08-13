@@ -1,5 +1,5 @@
 # MalariaCell-Classification-PyTorch
-Predicting parasitized and uninfected malaria cells using Image Classification and Resnet50 model with PyTorch 
+Predicting parasitized and uninfected malaria cells using Image Classification and Resnet50 model with PyTorch. 
 
 # Instructions 
 First download the image dataset from https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria 
